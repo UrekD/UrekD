@@ -1,5 +1,12 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urekd&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urekd&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+Currently working on developing and hosting [Workshop Monitor](https://github.com/UrekD/Steam-Workshop-Monitor) for discord :)
+<br>Some details about the bot as of 5.10.2022:
+<br>Servers/Guilds count: 53
+<br>Unique items monitored: 592
+<br>Total monitored: 860
+<br>Average total check time: 2s
 <!--
 **UrekD/UrekD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
