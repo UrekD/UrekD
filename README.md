@@ -3,10 +3,7 @@
 
 Currently working on developing and hosting [Workshop Monitor](https://github.com/UrekD/Steam-Workshop-Monitor) for discord :)
 <br>Some details about the bot as of 5.10.2022:
-<br>Servers/Guilds count: 53
-<br>Unique items monitored: 592
-<br>Total monitored: 860
-<br>Average total check time: 2s
+<br>[![Top Langs](https://github.com/UrekD/UrekD/blob/wbstats/stats.png)]()
 <!--
 **UrekD/UrekD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
