@@ -3,7 +3,7 @@
 
 Currently working on developing and hosting [Workshop Monitor](https://github.com/UrekD/Steam-Workshop-Monitor) for discord :)
 <br>Some details about the bot as of 5.10.2022:
-<br>[![Top Langs](https://github.com/UrekD/UrekD/blob/wbstats/stats.png)]()
+<br>[![Top Langs](https://github.com/UrekD/UrekD/blob/wbstats/stats.png)](https://discord.com/api/oauth2/authorize?client_id=752213037079068832&permissions=8&scope=applications.commands%20bot)
 <!--
 **UrekD/UrekD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
