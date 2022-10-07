@@ -1,4 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urekd&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urekd&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
+![](https://raw.githubusercontent.com/urekd/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/urekd/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/urekd/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/urekd/github-stats/master/generated/languages.svg#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urekd&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 Currently working on developing and hosting [Workshop Monitor](https://github.com/UrekD/Steam-Workshop-Monitor) for discord :)
