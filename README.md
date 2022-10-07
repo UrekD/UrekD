@@ -6,7 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urekd&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 Currently working on developing and hosting [Workshop Monitor](https://github.com/UrekD/Steam-Workshop-Monitor) for discord :)
-<br>[![Top Langs](https://github.com/UrekD/UrekD/blob/wbstats/stats.png)](https://discord.com/api/oauth2/authorize?client_id=752213037079068832&permissions=8&scope=applications.commands%20bot)
+<br>![](https://raw.githubusercontent.com/urekd/urekd/wbstats/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/urekd/urekd/wbstats/overview.svg#gh-light-mode-only)
 <!--
 **UrekD/UrekD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
