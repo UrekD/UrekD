@@ -1,4 +1,4 @@
-Arma 3 enjoyer, ran the servers and modded for [TF15](https://discord.gg/FA7EJkq2zU) milsim group, now waiting for A4 to get back in it.
+Arma 3 enjoyer, ran the servers and modded for [TF15/2BNB](https://discord.gg/FA7EJkq2zU) milsim group, now waiting for A4 to get back in it.
 
 
 Currently working on developing and hosting a private build of [Workshop Monitor](https://github.com/UrekD/Steam-Workshop-Monitor).
