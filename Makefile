@@ -14,3 +14,6 @@ run-query:
 			-e "s|X1|$$(echo $$VALUES | awk '{print $$1}')|g" \
 			-e "s|X2|$$(echo $$VALUES | awk '{print $$2}')|g" \
 			-e "s|X3|$$(echo $$VALUES | awk '{print $$3}')|g" overview.svg
+	git add overview.svg
+	git commit -m "Update stats"
+	git push
