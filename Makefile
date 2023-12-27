@@ -18,6 +18,8 @@ run-query:
 			-e "s|X2|$$(echo $$VALUES | awk '{print $$2}')|g" \
 			-e "s|X3|$$(echo $$VALUES | awk '{print $$3}')|g" overview.svg
 	-docker exec -i $(DB_CONTAINER) mysqldump -u $(DB_USER) -p$(DB_PASSWORD) $(DB_NAME) > database_dump.sql; \
+	eval "$$(ssh-agent -s)"; \
+	ssh-add ~/.ssh/deploy_key; \
 	git add .; \
 	git commit -m "Update stats"; \
 	git push; \
