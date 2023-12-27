@@ -5,7 +5,9 @@ include config.env
 .PHONY: run-query
 
 run-query:
-	git pull
+	eval "$$(ssh-agent -s)"; \
+	ssh-add ~/.ssh/deploy_key; \
+	git pull; \
 	VALUES="$$(docker exec -it $(DB_CONTAINER) mysql -u $(DB_USER) -p$(DB_PASSWORD) -Nse 'USE $(DB_NAME); SELECT COUNT(*) FROM guilds; SELECT COUNT(*) FROM mods; SELECT COUNT(*) FROM link;' 2>&1 | grep -v 'Warning' | tr -s '\n' ' ')" && \
 	echo "Values: $$VALUES" && \
 	TODAY="$$(date +'%d/%m/%Y')" && \
