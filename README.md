@@ -1,12 +1,12 @@
-Used to manage the servers and develop for [TF15/2BNB](https://discord.gg/FA7EJkq2zU) milsim group, still do a bit of dev :)
-Developed [Workshop Monitor](https://github.com/UrekD/Steam-Workshop-Monitor) to assist us in keeping the servers updated, a instance might still be running on my homelab. These days mainly focusing on work and trying to keep my own infrastructure in check.  
-<br>![](https://raw.githubusercontent.com/urekd/urekd/wbstats/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/urekd/urekd/wbstats/overview.svg#gh-light-mode-only)
+👨‍💻 Formerly managed servers and developed for [TF15/2BNB](https://discord.gg/FA7EJkq2zU) milsim group. Still enjoy dabbling in development 😊 Created [Workshop Monitor](https://github.com/UrekD/Steam-Workshop-Monitor) to streamline server updates; there might even be an instance running on my homelab! Nowadays, I'm primarily focused on professional endeavors and ensuring my personal infrastructure stays shipshape. 💼💻
 
-
-
-
-
+🌟 **Interests:**  🌟
+- Server management, homelab, and smaller scale deployments 💻🔧
+- Exploring Docker 🐳
+- Diving deeper into Python 🐍
+- CS 2 🎮🎯 and Squad 🎮👨‍✈️
+- Contributing to open source projects 🛠️
+- Currently learning and working towards Kubernetes certification 🚀
 
 
 
