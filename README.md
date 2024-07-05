@@ -2,11 +2,11 @@
 
 🌟 **Interests:**  🌟
 - Server management, homelab, and smaller scale deployments 💻🔧
-- Exploring Docker 🐳
+- Exploring Kubernetes 🐳
 - Diving deeper into Python 🐍
 - CS 2 🎮🎯 and Squad 🎮👨‍✈️
 - Contributing to open source projects 🛠️
-- Currently learning and working towards Kubernetes certification 🚀
+- Currently learning and working towards AWS/Cloud certification 🚀
 
 
 
