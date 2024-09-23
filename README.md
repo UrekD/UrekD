@@ -19,8 +19,10 @@
 ![](https://raw.githubusercontent.com/urekd/github-stats/master/generated/languages.svg#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urekd&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+### 🎖 Certificates
+<p align="left"><a href="https://www.credly.com/badges/bf786806-6f4d-47fc-b027-5de9663c1a95"><img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/other/kubestronaut/stacked/color/kubestronaut-stacked-color.svg" alt="Kubestronaut" width="150" height="150"/></a>
+<a href="https://www.credly.com/badges/e085635e-d71a-4a10-94cd-cf9345cdd011"><img src="https://images.credly.com/size/340x340/images/e21e94f7-feec-4717-9687-ac150b213f64/Cisco_DevNetAsst_600.png" alt="Cisco Certified DevNet Associate
+" width="150" height="150"/></a></p>
 
 
 
